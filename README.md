@@ -7,3 +7,8 @@
 - npm i express
 - npm i nodemon
 - npm i @faker-js/faker
+
+### Demo
+
+- GET(/) https://node-fakerjs.onrender.com
+- GET(/users) https://node-fakerjs.onrender.com/users
